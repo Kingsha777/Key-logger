@@ -11,7 +11,7 @@ Stops logging when the ESC key is pressed
 Simple and lightweight
 ## Clone the repo
 ```bash
-git clone https://github.com/Kingsha777/PRODIGY_CS_4.git
+git https://github.com/Kingsha777/Key-logger.git
 ```
 
 ## Install dependencies
